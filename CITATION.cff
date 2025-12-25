@@ -10,8 +10,8 @@ title: "The Sparsity Trap: Why MSE Fails and Poisson Succeeds for 2μm Spatial T
 version: 1.0.0
 doi: 10.XXXXX/XXXXX  # Will be updated after ArXiv/Zenodo
 date-released: 2025-12-25
-url: "https://github.com/vanbelkummax/mse-vs-poisson-2um-benchmark"
-repository-code: "https://github.com/vanbelkummax/mse-vs-poisson-2um-benchmark"
+url: "https://github.com/vanbelkummax/sparsity-trap-publication"
+repository-code: "https://github.com/vanbelkummax/sparsity-trap-publication"
 keywords:
   - spatial-transcriptomics
   - deep-learning

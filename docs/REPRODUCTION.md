@@ -15,7 +15,7 @@ This document provides step-by-step instructions to reproduce all results in "Th
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/vanbelkummax/mse-vs-poisson-2um-benchmark.git
+git clone https://github.com/vanbelkummax/sparsity-trap-publication.git
 cd mse-vs-poisson-2um-benchmark
 ```
 
@@ -210,7 +210,7 @@ If you reproduce these results, please cite:
   author = {Van Belkum, Max},
   title = {The Sparsity Trap: Why MSE Fails and Poisson Succeeds for 2μm Spatial Transcriptomics},
   year = {2025},
-  url = {https://github.com/vanbelkummax/mse-vs-poisson-2um-benchmark},
+  url = {https://github.com/vanbelkummax/sparsity-trap-publication},
   doi = {10.XXXXX/XXXXX}  # Will be updated after publication
 }
 ```
@@ -218,5 +218,5 @@ If you reproduce these results, please cite:
 ## Support
 
 For questions or issues:
-- Open a GitHub issue: https://github.com/vanbelkummax/mse-vs-poisson-2um-benchmark/issues
+- Open a GitHub issue: https://github.com/vanbelkummax/sparsity-trap-publication/issues
 - Email: max.vanbelkum@vanderbilt.edu

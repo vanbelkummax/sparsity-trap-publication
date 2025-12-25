@@ -51,7 +51,7 @@ setup(
     description="The Sparsity Trap: Why MSE Fails and Poisson Succeeds for 2um Spatial Transcriptomics",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/vanbelkummax/mse-vs-poisson-2um-benchmark",
+    url="https://github.com/vanbelkummax/sparsity-trap-publication",
     packages=find_packages(),
     python_requires=">=3.10",
     install_requires=[
@@ -991,8 +991,8 @@ title: "The Sparsity Trap: Why MSE Fails and Poisson Succeeds for 2μm Spatial T
 version: 1.0.0
 doi: 10.XXXXX/XXXXX  # Will be updated after ArXiv/Zenodo
 date-released: 2025-12-25
-url: "https://github.com/vanbelkummax/mse-vs-poisson-2um-benchmark"
-repository-code: "https://github.com/vanbelkummax/mse-vs-poisson-2um-benchmark"
+url: "https://github.com/vanbelkummax/sparsity-trap-publication"
+repository-code: "https://github.com/vanbelkummax/sparsity-trap-publication"
 keywords:
   - spatial-transcriptomics
   - deep-learning
@@ -1051,7 +1051,7 @@ This document provides step-by-step instructions to reproduce all results in "Th
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/vanbelkummax/mse-vs-poisson-2um-benchmark.git
+git clone https://github.com/vanbelkummax/sparsity-trap-publication.git
 cd mse-vs-poisson-2um-benchmark
 ```
 
@@ -1246,7 +1246,7 @@ If you reproduce these results, please cite:
   author = {Van Belkum, Max},
   title = {The Sparsity Trap: Why MSE Fails and Poisson Succeeds for 2μm Spatial Transcriptomics},
   year = {2025},
-  url = {https://github.com/vanbelkummax/mse-vs-poisson-2um-benchmark},
+  url = {https://github.com/vanbelkummax/sparsity-trap-publication},
   doi = {10.XXXXX/XXXXX}  # Will be updated after publication
 }
 ```
@@ -1254,7 +1254,7 @@ If you reproduce these results, please cite:
 ## Support
 
 For questions or issues:
-- Open a GitHub issue: https://github.com/vanbelkummax/mse-vs-poisson-2um-benchmark/issues
+- Open a GitHub issue: https://github.com/vanbelkummax/sparsity-trap-publication/issues
 - Email: max.vanbelkum@vanderbilt.edu
 ```
 
@@ -1464,7 +1464,7 @@ At 2μm resolution (Visium HD), ~95% of spatial bins contain **zero UMI counts**
 ## Installation
 
 ```bash
-git clone https://github.com/vanbelkummax/mse-vs-poisson-2um-benchmark.git
+git clone https://github.com/vanbelkummax/sparsity-trap-publication.git
 cd mse-vs-poisson-2um-benchmark
 conda env create -f environment.yml
 conda activate sparsity-trap
@@ -1541,7 +1541,7 @@ If you use this work, please cite:
   author = {Van Belkum, Max},
   title = {The Sparsity Trap: Why MSE Fails and Poisson Succeeds for 2μm Spatial Transcriptomics},
   year = {2025},
-  url = {https://github.com/vanbelkummax/mse-vs-poisson-2um-benchmark},
+  url = {https://github.com/vanbelkummax/sparsity-trap-publication},
   doi = {10.XXXXX/XXXXX}
 }
 ```
@@ -1581,7 +1581,7 @@ MD-PhD Student, Vanderbilt University Medical Center
 Email: max.vanbelkum@vanderbilt.edu
 GitHub: [@vanbelkummax](https://github.com/vanbelkummax)
 
-For questions or issues, please [open a GitHub issue](https://github.com/vanbelkummax/mse-vs-poisson-2um-benchmark/issues).
+For questions or issues, please [open a GitHub issue](https://github.com/vanbelkummax/sparsity-trap-publication/issues).
 ```
 
 **Step 2: Commit updated README**

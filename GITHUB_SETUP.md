@@ -67,7 +67,7 @@ REPO_NAME="sparsity-trap-publication"
 
 # Update all files
 find . -type f \( -name "*.md" -o -name "*.cff" \) -not -path "./.git/*" \
-  -exec sed -i "s|vanbelkummax/mse-vs-poisson-2um-benchmark|$GITHUB_USER/$REPO_NAME|g" {} +
+  -exec sed -i "s|vanbelkummax/sparsity-trap-publication|$GITHUB_USER/$REPO_NAME|g" {} +
 
 find . -type f \( -name "*.md" -o -name "*.cff" \) -not -path "./.git/*" \
   -exec sed -i "s|vanbelkummax/sparsity-trap-publication|$GITHUB_USER/$REPO_NAME|g" {} +

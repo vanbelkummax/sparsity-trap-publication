@@ -58,7 +58,7 @@ At 2μm resolution (Visium HD), ~95% of spatial bins contain **zero UMI counts**
 ## Installation
 
 ```bash
-git clone https://github.com/vanbelkummax/mse-vs-poisson-2um-benchmark.git
+git clone https://github.com/vanbelkummax/sparsity-trap-publication.git
 cd mse-vs-poisson-2um-benchmark
 conda env create -f environment.yml
 conda activate sparsity-trap
@@ -135,7 +135,7 @@ If you use this work, please cite:
   author = {Van Belkum, Max},
   title = {The Sparsity Trap: Why MSE Fails and Poisson Succeeds for 2μm Spatial Transcriptomics},
   year = {2025},
-  url = {https://github.com/vanbelkummax/mse-vs-poisson-2um-benchmark},
+  url = {https://github.com/vanbelkummax/sparsity-trap-publication},
   doi = {10.XXXXX/XXXXX}
 }
 ```
@@ -175,4 +175,4 @@ MD-PhD Student, Vanderbilt University Medical Center
 Email: max.vanbelkum@vanderbilt.edu
 GitHub: [@vanbelkummax](https://github.com/vanbelkummax)
 
-For questions or issues, please [open a GitHub issue](https://github.com/vanbelkummax/mse-vs-poisson-2um-benchmark/issues).
+For questions or issues, please [open a GitHub issue](https://github.com/vanbelkummax/sparsity-trap-publication/issues).
